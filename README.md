@@ -1,7 +1,6 @@
 # 👋 Olá, sou Gustav Augustin
 
 Sou **Desenvolvimento Frontend**, tenho experiência sólida em **UX/UI Design**, usabilidade e design de interfaces com a construção de aplicações web e app modernas.
-Tenho perfil analítico, foco em experiência do usuário e estou em constante evolução técnica para atuar como **Frontend Developer Júnior**.
 
 🚀 Em aprendizado contínuo  
 🎨 Forte background em UX / UI  Design
@@ -23,7 +22,7 @@ Tenho perfil analítico, foco em experiência do usuário e estou em constante e
 ## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,ts,react,next,node,postgresql,sql,git,github,figma,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,ts,react,next,node,postgresql,mysql,git,github,figma,docker,linux" />
 </p>
 
 ---
