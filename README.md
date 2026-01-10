@@ -14,7 +14,7 @@ Sou **Desenvolvimento Frontend**, tenho experiência sólida em **UX/UI Design**
 - Vivência com **Design Systems**, prototipação e testes de usabilidade
 - Desenvolvimento de interfaces com foco em **acessibilidade e usabilidade**
 - Experiência prática com **HTML, CSS, JavaScript e No-code**
-- Estudando **React, TypeScript, Next.js e Python**
+- Estudando **React, TypeScript, Next.js, Node.JS;. e Python**
 - Interesse em produtos digitais bem estruturados e escaláveis
 
 ---
@@ -22,23 +22,8 @@ Sou **Desenvolvimento Frontend**, tenho experiência sólida em **UX/UI Design**
 ## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,ts,react,next,postgresql,mysql,git,github,figma,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,nextjs,react,nodejs,ts,tailwind,python,django,postgresql,mysql,git,github,wordpress,figma,linux" />
 </p>
-
----
-
-## 💻 Frontend Developer Jr
-
-Atualmente desenvolvo projetos com foco em:
-
-- HTML5
-- CSS3 (Flexbox e Grid)
-- JavaScript (ES6+)
-- Consumo de APIs REST
-- Versionamento com Git e GitHub
-- Integração entre **Design (UX/UI)** e **Código**
-
-🎯 **Objetivo:** primeira oportunidade como **Frontend Developer Júnior**
 
 ---
 
