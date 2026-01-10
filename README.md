@@ -22,7 +22,7 @@ Sou **Desenvolvimento Frontend**, tenho experiência sólida em **UX/UI Design**
 ## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,ts,react,next,node,postgresql,mysql,git,github,figma,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,ts,react,next,postgresql,mysql,git,github,figma,docker,linux" />
 </p>
 
 ---
