@@ -1,6 +1,6 @@
 # 👋 Olá, sou Gustav Augustin
 
-Sou **Desenvolvimento Frontend**, tenho experiência sólida em **UX/UI Design**, usabilidade e design de interfaces com a construção de aplicações web e app modernas.
+Sou **Desenvolvimento Fullstack**, tenho experiência sólida em **UX/UI Design**, usabilidade e design de interfaces com a construção de aplicações web e app modernas.
 
 🚀 Em aprendizado contínuo  
 🎨 Forte background em UX / UI  Design
